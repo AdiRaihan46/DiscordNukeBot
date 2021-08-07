@@ -23,3 +23,5 @@ Tutorial: https://www.youtube.com/watch?v=g33qMkHyqb0
 To stop the bot do, .stop in a channel
 
 You can't use this to say I nuked a server or I ruined a server 
+
+[Run To Replit](https://replit.com/github/AdiRaihan46/DiscordNukeBot)

@@ -31,4 +31,4 @@ You can't use this to say I nuked a server or I ruined a server
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AdiRaihan46/DiscordNukeBot)
 
 ## 🤖 Invite Bot
-[![Invite Bot Protect V1.0](https://discord.com/oauth2/authorize?client_id=866585118667702292&scope=bot&permissions=8589934591&response_type=code
+[Invite Bot Protect V1.0](https://discord.com/oauth2/authorize?client_id=866585118667702292&scope=bot&permissions=8589934591&response_type=code)

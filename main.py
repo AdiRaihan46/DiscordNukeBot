@@ -161,5 +161,7 @@ async def cmdhelp(ctx):
 async def on_guild_channel_create(channel):
   while True:
     await channel.send(random.choice(SPAM_MESSAGE))
+      
+keep_alive keep_alive()
 
 client.run(token, bot=True)

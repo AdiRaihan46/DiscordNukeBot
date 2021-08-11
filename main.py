@@ -105,7 +105,7 @@ async def rename(ctx, rename_to):
     for member in list(client.get_all_members()):
         try:
             await member.edit(nick=rename_to)
-            print (f"{member.name} has been renamed to {rename_to}")
+            pr,int (f"{member.name} has been renamed to {rename_to}")
         except:
             print (f"{member.name} has NOT been renamed")
         print("Action completed: Rename all")
@@ -162,6 +162,6 @@ async def on_guild_channel_create(channel):
   while True:
     await channel.send(random.choice(SPAM_MESSAGE))
       
-keep_alive keep_alive()
+keep_alive.keep_alive()
 
 client.run(token, bot=True)

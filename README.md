@@ -16,12 +16,20 @@ New Command: .role (deletes all roles in the server)
  
 If it says Shard ID None is requesting privileged intents, go to discord developer portal and go to your bot and click on the bot tab and then scroll down to where it says privileged gateway intents and enable both, then it should work
 
-Tutorial On How To Fix Issue: https://streamable.com/7eovst
+Tutorial On How To Fix Issue[Streamable](https://streamable.com/7eovst)
 
-Tutorial: https://www.youtube.com/watch?v=g33qMkHyqb0
+Tutorial Videos [Click Here](https://www.youtube.com/watch?v=g33qMkHyqb0)
 
 To stop the bot do, .stop in a channel
 
 You can't use this to say I nuked a server or I ruined a server 
 
-[Run To Replit](https://replit.com/github/AdiRaihan46/DiscordNukeBot)
+## 💨 Run the projects
+
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/AdiRaihan46/DiscordNukeBot)
+[![Run on Repl.it](https://repl.it/badge/github/AdiRaihan46/DiscordNukeBot)](https://repl.it/github/AdiRaihan46/DiscordNukeBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AdiRaihan46/DiscordNukeBot)
+
+## ✨ Contributors
+
+Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)

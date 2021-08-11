@@ -1,4 +1,5 @@
 import discord
+import keep_alive
 from discord.ext import commands
 import random
 from discord import Permissions

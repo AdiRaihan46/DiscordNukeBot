@@ -8,7 +8,7 @@ Make sure to put your bot token in TOKEN
 
 To view all these commands, do .cmdhelp in any channel
 
-
+New Command: .raid (Delete All Channel ,Roles ,And Ping 5k)
 New Command: .dm (messages all in the server)
 New Command: .rename (text) (renames all the people in the server)
 New Command: .emoji (deletes all emojis in the server)
